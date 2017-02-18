@@ -8,9 +8,10 @@ Remote sensing, specifically lidar data, is extremely useful tool in identifying
 Data comes in looking like this. While this can tell archaeologists a lot about the landscape, the data needs to be cleaned up in order to see on-the-ground data in a site with so many trees like this one.
 
 ![pointcloud2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloud2.png)
-
-
-
+  
+  
+  
+    
 # Case Study from Florida
 ![closemap](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/closemap.jpg)
 
@@ -23,17 +24,15 @@ This photo is from January 1953 and shows the a visible path from the river to t
 
 This photo from January 1971, about 20 years later, shows the plant growth change in the path from the river to the mound as modern use was no longer taking place.
 
-![1261971](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/1261971.jpg)
+![1261971](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/1261971.jpg)_Photo courtesty of [UFDC](http://ufdc.ufl.edu/UF00071749/00005/20j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176)_
 
 In 1985, when the mound was brought to the attention of archaeologists, the vegetation had become more dense on top of the discarded shells. The ground on the midden has a large amount of ground cover as visible on the ground.
 
-![frommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/frommidden.jpg)
-_Photo taken in 1985 by Dr. Nancy White._
+![frommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/frommidden.jpg)_Photo taken in 1985 by Dr. Nancy White._
 
 Even on more modern structures from the early 1900s, the plant growth causes some visibility issues.
 
-![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)
-_Photo taken in 1985 by Dr. Nancy White._
+![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)_Photo taken in 1985 by Dr. Nancy White._
 
 ## Lidar Data for Depot Creek
 This original 1994 contour map of Depot Creek shows the state of the mound during the archaeological excavations that took place in 1987. It shows specific locations of archaeological test units and signs of looter activity. This map was originally created using on-ground visible shell extents and inputted into an electronic program in 1994.
