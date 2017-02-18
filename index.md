@@ -98,7 +98,7 @@ White, Nancy Marie
 
 1994 Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C.
 
-Interested in [more information](Remote-Sensing-in-Archaeology/Moreresources.md) about this site and northwest Florida archaeology? Click [here](Remote-Sensing-in-Archaeology/Moreresources.md).
+Interested in more information about this site and northwest Florida archaeology? Click [here](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/master/Moreresources.md).
 
 ### Software Tools Used
 [LAStools](http://www.cs.unc.edu/~isenburg/lastools/) by Martin Isenburg
