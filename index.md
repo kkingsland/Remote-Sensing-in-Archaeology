@@ -42,7 +42,7 @@ _Photo taken in 1985 by Dr. Nancy White._
 This original 1994 contour map of Depot Creek shows the state of the mound during the archaeological excavations that took place in 1987. It shows specific locations of archaeological test units and signs of looter activity. This map was originally created using on-ground visible shell extents and inputted into an electronic program in 1994.
 
 ![NOAAelevations](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/NOAAelevations.png)
-_Courtesy of Nancy Marie White (1994). Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C._
+_Image adapted from White (1994:22)._
 
 This is a sample of lidar data from Depot Creek. Bright yellow areas are those that are considered ground points. Notice the yellow shape in the middle? These are the visible sections of the mound that can be seen in the satellite images. The large yellow streak at the top of the image is part of the Depot Creek river that has been incorrectly called ground by the program.
 
@@ -81,5 +81,10 @@ This different view of the mound leads to exciting new information about the mou
 
 ![backland](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/backland.jpg)
 
+
+### References
+
+White, Nancy Marie
+1994 Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C.
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
