@@ -1,4 +1,4 @@
-![image](src)
+
 
 ### Using Remote Sensing Data in Archaeology
 
