@@ -27,4 +27,8 @@ Remote sensing data can provide a more complete view of the mound. While it cann
 
 ![figure](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/figure.jpg)
 
+This different view of the mound leads to exciting new information about the mound and the people who inhabited the area. Depot Creek shell mound is larger than previously thought as can be seen using remotely sensed data. The increase in known size suggests that the mound may have been used more frequently than originally thought and provides areas of interest for on-the-ground surveying. It also suggests that further archaeological surveys and excavations are necessary in order to gather more information about the mound’s uses and the people who used Depot Creek. While there is some data from the site, it was collected almost 30 years ago, using standard paper methods of the time. The original report suggested that the mound was probably larger than recorded in 1987, but because of rising sea levels and plant growth since the site’s habitation, it was difficult to see its full size. Remotely sensed data seems to have remedied this situation and verified the hypothesis of a larger-than-visible mound. 
+
+
+
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
