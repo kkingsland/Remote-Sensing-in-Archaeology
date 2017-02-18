@@ -6,4 +6,8 @@ Remote sensing, specifically lidar data, is extremely useful tool in identifying
 
 ![pointcloud](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/4.png)
 
+Data comes in looking like this. While this can tell archaeologists a lot about the landscape, the data needs to be cleaned up in order to see on-the-ground data in a site with so many trees like this one.
+
+![pointcloud2](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/5.png)
+
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site. 
