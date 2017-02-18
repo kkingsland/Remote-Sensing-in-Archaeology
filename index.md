@@ -10,9 +10,19 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 ![pointcloud2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloud2.png)
 
 ### Case Study from Florida
-Depot Creek is a shell midden in the panhandle of Florida near the town of [Apalachicola](https://goo.gl/maps/x1cAPcrhJk42). It is visible as a large white shape in the satellite imagery because it was previously cleared in the early part of the 1900s for use as an apiary (which is a bee-keeping site) and as a moonshine distillery. The large amount of tree coverage provides particular challenges for remote sensing data, causing a need for on-the-ground surveys, but lidar still proves a useful tool in understanding the full scope of this mound. The data collected can be extremely valuable in archaeology to show the extent of a site; specifically, remotely sensed data provides a more clear visual of Depot Creek shell midden and can provide a relative size of the midden that cannot be done as accurately using on-the-ground, more traditional methods. Lidar data shows all of the vegetation in an area and provides elevation information for a specific place. 
-
 ![closemap](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/closemap.jpg)
+
+Depot Creek is a shell midden in the panhandle of Florida near the town of [Apalachicola](https://goo.gl/maps/x1cAPcrhJk42). It is visible as a large white shape in the satellite imagery because it was previously cleared in the early part of the 1900s for use as an apiary (which is a bee-keeping site) and as a moonshine distillery. The large amount of tree coverage provides particular challenges for remote sensing data, causing a need for on-the-ground surveys, but lidar still proves a useful tool in understanding the full scope of this mound. The data collected can be extremely valuable in archaeology to show the extent of a site; specifically, remotely sensed data provides a more clear visual of Depot Creek shell midden and can provide a relative size of the midden that cannot be done as accurately using on-the-ground, more traditional methods. Lidar data shows all of the vegetation in an area and provides elevation information for a specific place.
+
+The ground on the midden has a large amount of ground cover as visible on the ground.
+
+![frommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/frommidden.jpg)
+_Photo taken in 1985 by Dr. Nancy White._
+
+Even on more modern structures from the early 1900s, the plant growth causes some visibility issues.
+
+![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)
+_Photo taken in 1985 by Dr. Nancy White._
 
 This is a sample of lidar data from Depot Creek. Bright yellow areas are those that are considered ground points. Notice the yellow shape in the middle? These are the visible sections of the mound that can be seen in the satellite images. The large yellow streak at the top of the image is part of the Depot Creek river that has been incorrectly called ground by the program.
 
@@ -29,7 +39,7 @@ Remote sensing data can provide a more complete view of the mound. While it cann
 
 ![sideland2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland2.jpg)
 
-This different view of the mound leads to exciting new information about the mound and the people who inhabited the area. Depot Creek shell mound is larger than previously thought as can be seen using remotely sensed data. The increase in known size suggests that the mound may have been used more frequently than originally thought and provides areas of interest for on-the-ground surveying. It also suggests that further archaeological surveys and excavations are necessary in order to gather more information about the mound’s uses and the people who used Depot Creek. While there is some data from the site, it was collected almost 30 years ago, using standard paper methods of the time. The original report suggested that the mound was probably larger than recorded in 1987, but because of rising sea levels and plant growth since the site’s habitation, it was difficult to see its full size. Remotely sensed data seems to have remedied this situation and verified the hypothesis of a larger-than-visible mound. 
+This different view of the mound leads to exciting new information about the mound and the people who inhabited the area. Depot Creek shell mound is larger than previously thought as can be seen using remotely sensed data. The increase in known size suggests that the mound may have been used more frequently than originally thought and provides areas of interest for on-the-ground surveying. It also suggests that further archaeological surveys and excavations are necessary in order to gather more information about the mound’s uses and the people who used Depot Creek. While there is some data from the site, it was collected almost 30 years ago, using standard paper methods of the time. The original report suggested that the mound was probably larger than recorded in 1987, but because of rising sea levels and plant growth since the site’s habitation, it was difficult to see its full size. Remotely sensed data seems to have remedied this situation and verified the hypothesis of a larger-than-visible mound. Remoetly sensed data has shown that this shell mound is larger than visible with the naked eye. 
 
 ![sideland1](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland1.jpg)
 
