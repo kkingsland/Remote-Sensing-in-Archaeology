@@ -13,5 +13,6 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 ### Case Study from Florida
 
 [map](https://goo.gl/maps/x1cAPcrhJk42)
+[maphtml](Remote-Sensing-in-Archaeology/map.html)
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site. 
