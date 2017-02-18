@@ -8,7 +8,7 @@ Remote sensing, specifically lidar data, is extremely useful tool in identifying
 
 Data comes in looking like this. While this can tell archaeologists a lot about the landscape, the data needs to be cleaned up in order to see on-the-ground data in a site with so many trees like this one.
 
-![5.png](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/5.png)
+![pointcloud2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/master/pointcloud2.png)
 
 ### Case Study from Florida
 
