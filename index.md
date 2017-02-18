@@ -13,3 +13,5 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 ### Case Study from Florida
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site. 
+
+![Remote-Sensing-in-Archaeology/DEM1.jpg](Remote-Sensing-in-Archaeology/DEM1.jpg)
