@@ -87,4 +87,6 @@ This different view of the mound leads to exciting new information about the mou
 White, Nancy Marie
 1994 Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C.
 
+Interested in [more information](Remote-Sensing-in-Archaeology/Moreresources.md) about this site and northwest Florida archaeology? Click [here](Remote-Sensing-in-Archaeology/Moreresources.md).
+
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
