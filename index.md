@@ -14,6 +14,8 @@ Depot Creek is a shell midden in the panhandle of Florida near the town of [Apal
 
 ![closemap](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/closemap.jpg)
 
+This is a sample of lidar data from Depot Creek. Bright yellow areas are those that are considered ground points. Notice the yellow shape in the middle? These are the visible sections of the mound that can be seen in the satellite images. The large yellow streak at the top of the image is part of the Depot Creek river that has been incorrectly called ground by the program.
 
+![pointcloudhighlighted](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloudhighlighted.jpg)
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
