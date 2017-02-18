@@ -106,6 +106,3 @@ Interested in [more information](Remote-Sensing-in-Archaeology/Moreresources.md)
 [SAGA GIS](http://www.saga-gis.org/en/index.html)
 
 [ArcGIS](http://www.esri.com/arcgis/about-arcgis)
-
-
-**Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
