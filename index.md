@@ -70,7 +70,7 @@ When the contour map is overlaid with this one, it is easier to see where each c
 
 Remote sensing data can provide a more complete view of the mound. While it cannot provide as specific contours and elevations as the hand-drawn map due to data quality, it can provide more exact measurements and extents of each height in the mound. The full extend of the mound can also be seen at the lowest interval where the mound begins. Specific outlying high points could be attributed to other areas of shell elevation from the site’s creation, or as a case in the northern high points, possible visible remains of an old wooden walkway used in the early 1900s to get from Depot Creek river to the moonshine distillery and apiary that was housed on the mound which has since decayed. The elevation increases at the bottom of this map are larger trees within the swamp that could not be filtered out.
 
-View the [pointcloud]() for yourself. Raw data is available through [NOAA](https://coast.noaa.gov/dataviewer/#/lidar/search/) and [USGS](https://earthexplorer.usgs.gov/).
+View the [pointcloud]() for yourself. Raw data is available through [NOAA](https://coast.noaa.gov/dataviewer/#/lidar/search/) 2007 FDEM Lidar: Gulf County Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection - specific link [here](https://coast.noaa.gov/dataviewer/#/lidar/search/-9480396.237896454,3476059.8529252107,-9479149.358872551,3476938.8787504905/details/534) and metadata for the original dataset is available [here](https://coast.noaa.gov/dataservices/Metadata/TransformMetadata?u=https://coast.noaa.gov/data/Documents/Metadata/Lidar/harvest/fdem2007_gulf_m534_metadata.xml&f=html)
 
 ## What was Learned
 ![sideland2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland2.jpg)
@@ -83,6 +83,13 @@ This different view of the mound leads to exciting new information about the mou
 
 
 ### References
+National Oceanic and Atmospheric Assocation
+2007 FDEM Lidar: Gulf County. Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection. Accessed January 26, 2017.
+
+[University of Florida Digital Collections](http://ufdc.ufl.edu/aerials)
+1953 Aerial Images from http://ufdc.ufl.edu/UF00071749/00002/3j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176
+
+1971 Aerial Images from http://ufdc.ufl.edu/UF00071749/00005/20j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176
 
 White, Nancy Marie
 1994 Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C.
