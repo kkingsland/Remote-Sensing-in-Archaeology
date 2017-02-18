@@ -1,4 +1,4 @@
-![Front_Landscape_dc](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/Front_Landscape.jpg)
+![dcfrontlandscape3d](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/Front_Landscape.jpg)
 
 ### Using Remote Sensing Data in Archaeology
 
