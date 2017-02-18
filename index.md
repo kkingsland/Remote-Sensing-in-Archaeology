@@ -6,3 +6,5 @@ Remote sensing, specifically lidar data, is extremely useful tool in identifying
 
 **Note:** Looting archaeological sites is a serious problem and _is_ illegal. Looting a site includes picking up and removing _anything_ from the site. It is imperative that to preserve the site in order for more archaeological information and removing objects from the site will cause it to be of no value for future research, including the value of removed objects. 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
