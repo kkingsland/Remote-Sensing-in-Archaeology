@@ -84,16 +84,28 @@ This different view of the mound leads to exciting new information about the mou
 
 ### References
 National Oceanic and Atmospheric Assocation
+
 2007 FDEM Lidar: Gulf County. Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection. Accessed January 26, 2017.
 
 [University of Florida Digital Collections](http://ufdc.ufl.edu/aerials)
+
 1953 Aerial Images from http://ufdc.ufl.edu/UF00071749/00002/3j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176
 
 1971 Aerial Images from http://ufdc.ufl.edu/UF00071749/00005/20j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176
 
+
 White, Nancy Marie
+
 1994 Archaeological Investigations at Six Sites in the Apalachicola River Valley, Northwest Florida. National Oceanic and Atmospheric Administration Technical Memorandum NOS SRD 26. Marine and Estuarine Management Division, Washington, D. C.
 
 Interested in [more information](Remote-Sensing-in-Archaeology/Moreresources.md) about this site and northwest Florida archaeology? Click [here](Remote-Sensing-in-Archaeology/Moreresources.md).
+
+### Software Tools Used
+[LAStools](http://www.cs.unc.edu/~isenburg/lastools/) by Martin Isenburg
+
+[SAGA GIS](http://www.saga-gis.org/en/index.html)
+
+[ArcGIS](http://www.esri.com/arcgis/about-arcgis)
+
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
