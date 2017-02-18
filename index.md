@@ -8,10 +8,10 @@ Remote sensing, specifically lidar data, is extremely useful tool in identifying
 Data comes in looking like this. While this can tell archaeologists a lot about the landscape, the data needs to be cleaned up in order to see on-the-ground data in a site with so many trees like this one.
 
 ![pointcloud2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloud2.png)
-  
-  
-  
-    
+
+
+
+
 # Case Study from Florida
 ![closemap](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/closemap.jpg)
 
@@ -28,11 +28,15 @@ This photo from January 1971, about 20 years later, shows the plant growth chang
 
 In 1985, when the mound was brought to the attention of archaeologists, the vegetation had become more dense on top of the discarded shells. The ground on the midden has a large amount of ground cover as visible on the ground.
 
-![frommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/frommidden.jpg)_Photo taken in 1985 by Dr. Nancy White._
+![frommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/frommidden.jpg)
+_Photo taken in 1985 by Dr. Nancy White._
 
 Even on more modern structures from the early 1900s, the plant growth causes some visibility issues.
 
-![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)_Photo taken in 1985 by Dr. Nancy White._
+![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)
+_Photo taken in 1985 by Dr. Nancy White._
+
+
 
 ## Lidar Data for Depot Creek
 This original 1994 contour map of Depot Creek shows the state of the mound during the archaeological excavations that took place in 1987. It shows specific locations of archaeological test units and signs of looter activity. This map was originally created using on-ground visible shell extents and inputted into an electronic program in 1994.
@@ -44,9 +48,29 @@ This is a sample of lidar data from Depot Creek. Bright yellow areas are those t
 
 ![pointcloudhighlighted](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloudhighlighted.jpg)
 
-Remote sensing data can provide a more complete view of the mound. While it cannot provide as specific contours and elevations as the hand-drawn map due to data quality, it can provide more exact measurements and extents of each height in the mound. The full extend of the mound can also be seen at the lowest interval where the mound begins. Specific outlying high points could be attributed to other areas of shell elevation from the site’s creation, or as a case in the northern high points, possible visible remains of an old wooden walkway used in the early 1900s to get from Depot Creek river to the moonshine distillery and apiary that was housed on the mound which has since decayed. The elevation increases at the bottom of this map are larger trees within the swamp that could not be filtered out. 
+A digital elevation map, which shows that data by elevation classification, needs to be created in order to provide a better view of the height of different places on the ground.
+
+![dem1](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/DEM1.jpg)
+
+Digital elevation maps can be used to create a contour map which the program calculates, making it more accurate than elevation increases that are taken by hand.
+
+![contoursonly](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/contoursonly.jpg)
+
+This shows a more clear view of the map that can easily be compared to the 1994 contour map. You can also see the increases in elevation using this map.
+
+![hillshade1](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/Hillshade1.jpg)
+
+When the contour map is overlaid with this one, it is easier to see where each contour actually falls on the image.
+
+![hillshadeoutlined](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/Hillshadeoutlined.jpg)
+
+ It can also be better viewed using colored elevations.
 
 ![figure](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/figure.jpg)
+
+Remote sensing data can provide a more complete view of the mound. While it cannot provide as specific contours and elevations as the hand-drawn map due to data quality, it can provide more exact measurements and extents of each height in the mound. The full extend of the mound can also be seen at the lowest interval where the mound begins. Specific outlying high points could be attributed to other areas of shell elevation from the site’s creation, or as a case in the northern high points, possible visible remains of an old wooden walkway used in the early 1900s to get from Depot Creek river to the moonshine distillery and apiary that was housed on the mound which has since decayed. The elevation increases at the bottom of this map are larger trees within the swamp that could not be filtered out.
+
+
 
 ## What was Learned
 ![sideland2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland2.jpg)
