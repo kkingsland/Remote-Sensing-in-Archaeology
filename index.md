@@ -10,4 +10,6 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 
 ![pointcloud2](https://github.com/kkingsland/Remote-Sensing-in-Archaeology/blob/kkingsland-photos/5.png)
 
+### Case Study from Florida
+
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site. 
