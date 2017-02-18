@@ -12,7 +12,9 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 
 ### Case Study from Florida
 
-[map](https://goo.gl/maps/x1cAPcrhJk42)
-[maphtml](Remote-Sensing-in-Archaeology/map.html)
+![fromair](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/fromair.jpg)
 
-**Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site. 
+Depot Creek is a shell midden in the panhandle of Florida near the town of [Apalachicola](https://goo.gl/maps/x1cAPcrhJk42). It is visible as a large white shape in the satellite imagery because it was previously cleared in the early part of the 1900s for use as an apiary (which is a bee-keeping site) and as a moonshine distillery. The large amount of tree coverage provides particular challenges for remote sensing data, causing a need for on-the-ground surveys, but lidar still proves a useful tool in understanding the full scope of this mound. The data collected can be extremely valuable in archaeology to show the extent of a site; specifically, remotely sensed data provides a more clear visual of Depot Creek shell midden and can provide a relative size of the midden that cannot be done as accurately using on-the-ground, more traditional methods. Lidar data shows all of the vegetation in an area and provides elevation information for a specific place. 
+
+
+**Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
