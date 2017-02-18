@@ -1,4 +1,4 @@
-### Using Remote Sensing Data in Archaeology
+### What is Remote Sensing?
 
 ![dcfrontlandscape3d](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/kkingsland-photos/Front_Landscape.jpg)
 
