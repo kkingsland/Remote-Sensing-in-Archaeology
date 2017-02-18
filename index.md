@@ -9,16 +9,17 @@ Data comes in looking like this. While this can tell archaeologists a lot about 
 
 ![pointcloud2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloud2.png)
 
+
+
 # Case Study from Florida
 ![closemap](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/closemap.jpg)
 
 Depot Creek archaeological site (8Gu56) is a shell midden in the panhandle of Florida near the town of [Apalachicola](https://goo.gl/maps/x1cAPcrhJk42). It is visible as a large white shape in the satellite imagery because it was previously cleared in the early part of the 1900s for use as an apiary (which is a bee-keeping site) and as a moonshine distillery. The large amount of tree coverage provides particular challenges for remote sensing data, causing a need for on-the-ground surveys, but lidar still proves a useful tool in understanding the full scope of this mound. The data collected can be extremely valuable in archaeology to show the extent of a site; specifically, remotely sensed data provides a more clear visual of Depot Creek shell midden and can provide a relative size of the midden that cannot be done as accurately using on-the-ground, more traditional methods. Lidar data shows all of the vegetation in an area and provides elevation information for a specific place.
 
 Aerial photographs available through through the [University of Florida Digital Collections](http://ufdc.ufl.edu/aerials) shows changes in use of the midden and plant-growth over time. 
-
 This photo is from January 1953 and shows the a visible path from the river to the mound for its more modern use as an apiary and distillery. 
 
-![1121953](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/1121953.jpg)
+![1121953](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/1121953.jpg)_Photo courtesy of [UFDC](http://ufdc.ufl.edu/UF00071749/00002/3j?coord=29.79223927140925,-85.17468452453613,29.782555534132538,-85.15408515930176)_
 
 This photo from January 1971, about 20 years later, shows the plant growth change in the path from the river to the mound as modern use was no longer taking place.
 
