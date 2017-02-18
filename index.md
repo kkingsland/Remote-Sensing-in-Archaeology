@@ -24,6 +24,7 @@ Even on more modern structures from the early 1900s, the plant growth causes som
 ![brickfrommidden](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/brickfrommidden.jpg)
 _Photo taken in 1985 by Dr. Nancy White._
 
+## Lidar Data for Depot Creek
 This is a sample of lidar data from Depot Creek. Bright yellow areas are those that are considered ground points. Notice the yellow shape in the middle? These are the visible sections of the mound that can be seen in the satellite images. The large yellow streak at the top of the image is part of the Depot Creek river that has been incorrectly called ground by the program.
 
 ![pointcloudhighlighted](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/pointcloudhighlighted.jpg)
