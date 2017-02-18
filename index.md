@@ -70,7 +70,7 @@ When the contour map is overlaid with this one, it is easier to see where each c
 
 Remote sensing data can provide a more complete view of the mound. While it cannot provide as specific contours and elevations as the hand-drawn map due to data quality, it can provide more exact measurements and extents of each height in the mound. The full extend of the mound can also be seen at the lowest interval where the mound begins. Specific outlying high points could be attributed to other areas of shell elevation from the site’s creation, or as a case in the northern high points, possible visible remains of an old wooden walkway used in the early 1900s to get from Depot Creek river to the moonshine distillery and apiary that was housed on the mound which has since decayed. The elevation increases at the bottom of this map are larger trees within the swamp that could not be filtered out.
 
-
+View the [pointcloud]() for yourself. Raw data is available through [NOAA](https://coast.noaa.gov/dataviewer/#/lidar/search/) and [USGS](https://earthexplorer.usgs.gov/).
 
 ## What was Learned
 ![sideland2](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland2.jpg)
@@ -80,8 +80,6 @@ This different view of the mound leads to exciting new information about the mou
 ![sideland1](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/sideland1.jpg)
 
 ![backland](https://raw.githubusercontent.com/kkingsland/Remote-Sensing-in-Archaeology/DC_Photos/backland.jpg)
-
-[map](Remote-Sensing-in-Archaeology/map.html)
 
 
 **Note:** Looting archaeological sites _is_ illegal and removes historical value from the objects and the site. Looting a site includes picking up and removing _anything_ from the site.
